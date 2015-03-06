@@ -34,7 +34,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self drawView];
+    [self drawView];///
     // // 
     NSArray *titles = @[@"父", @"母", Del_Name, Del_All_Name, @"兄", @"姐", @"夫", @"年长", @"弟", @"妹", @"妻", @"年轻", @"仔", @"囡", De_Name, Result_Name];
     NSArray *titleNames = @[@"爸爸", @"妈妈", Del_Name, Del_All_Name, @"哥哥", @"姐姐", @"丈夫", Nian_Zhang, @"弟弟", @"妹妹", @"妻子", Nian_Qing, @"儿子", @"女儿", De_Name, Result_Name];
