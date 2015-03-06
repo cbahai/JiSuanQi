@@ -21,7 +21,7 @@
 #define Row_Count 4
 #define Btn_Sapce 5
 
-@interface ViewController ()
+@interface ViewController ()//
 
 @property (strong, nonatomic) IBOutlet UIView *displayBgView;
 @property (strong, nonatomic) IBOutlet UILabel *courseLabel;
